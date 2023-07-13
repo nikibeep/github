@@ -1,4 +1,4 @@
-# User Name
+# Users
 
 Welcome to my GitHub repository! This repository contains my personal projects, code samples, and other interesting stuff.
 
@@ -8,13 +8,13 @@ I'm a passionate software developer with a strong focus on web development. I lo
 
 ## LinkedIn
 
-Connect with Joel J Joseph on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-Connect with I J Nikhil George on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+Connect with Joel J Joseph on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joel-john-joseph-2b77a41a4)
+Connect with I J Nikhil George on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/i-j-nikhil-george-850424240)
 
 ## GitHub
 
-Check out Joel's GitHub repositories: [GitHub Profile](https://github.com/yourusername)
-Check out Nikhil's GitHub repositories: [GitHub Profile](https://github.com/yourusername)
+Check out Joel's GitHub repositories: [GitHub Profile](https://github.com/JoelJoseph)
+Check out Nikhil's GitHub repositories: [GitHub Profile](https://github.com/nikibeep)
 
 ## Useful Resources
 
