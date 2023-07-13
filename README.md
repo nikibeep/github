@@ -13,7 +13,7 @@ Connect with I J Nikhil George on LinkedIn: [LinkedIn Profile](https://www.linke
 
 ## GitHub
 
-Check out Joel's GitHub repositories: [GitHub Profile](https://github.com/JoelJoseph)
+Check out Joel's GitHub repositories: [GitHub Profile](https://github.com/JoelJJoseph)
 Check out Nikhil's GitHub repositories: [GitHub Profile](https://github.com/nikibeep)
 
 ## Useful Resources
